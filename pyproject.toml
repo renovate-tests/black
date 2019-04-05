@@ -70,7 +70,7 @@ black = "black:main"
 
 [tool.poetry.dependencies]
 python = "^3.6"
-attrs = "^18.1"
+attrs = "^19.0.0"
 click = "^6.5"
 toml = "^0.9.4"
 appdirs = "^1.4"
