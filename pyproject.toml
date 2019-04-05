@@ -80,7 +80,7 @@ aiohttp = { version = "^3.4", optional = true }
 d = ["aiohttp"]
 
 [tool.poetry.dev-dependencies]
-Sphinx = "^1.7"
+Sphinx = "^2.0.0"
 pre-commit = "^1.10"
 coverage = "^4.5"
 flake8 = "^3.5"
